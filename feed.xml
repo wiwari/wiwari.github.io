@@ -1,15 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-Hant-TW"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://wiwari.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://wiwari.github.io/" rel="alternate" type="text/html" hreflang="zh-Hant-TW" /><updated>2022-06-07T17:58:12+08:00</updated><id>https://wiwari.github.io/feed.xml</id><title type="html">溪激流 | whitewater river</title><subtitle>高山溯溪溯源、激流獨木舟、峽谷溪降雜記</subtitle><entry><title type="html">集水區觀察員</title><link href="https://wiwari.github.io/aacTW.html" rel="alternate" type="text/html" title="集水區觀察員" /><published>2021-12-19T00:00:00+08:00</published><updated>2022-06-01T14:46:10+08:00</updated><id>https://wiwari.github.io/aacTW</id><content type="html" xml:base="https://wiwari.github.io/aacTW.html"><![CDATA[<p>溪降、溯溪、獨木舟、登山必備工具</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-Hant-TW"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://wiwari.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://wiwari.github.io/" rel="alternate" type="text/html" hreflang="zh-Hant-TW" /><updated>2022-06-10T17:33:46+08:00</updated><id>https://wiwari.github.io/feed.xml</id><title type="html">溪激流 | whitewater river</title><subtitle>高山溯溪溯源、激流獨木舟、峽谷溪降雜記</subtitle><entry><title type="html">集水區觀察員</title><link href="https://wiwari.github.io/aacTW.html" rel="alternate" type="text/html" title="集水區觀察員" /><published>2021-12-19T00:00:00+08:00</published><updated>2022-06-10T17:27:46+08:00</updated><id>https://wiwari.github.io/aacTW</id><content type="html" xml:base="https://wiwari.github.io/aacTW.html"><![CDATA[<p><code class="language-plaintext highlighter-rouge">溪降、溯溪、獨木舟、登山必備工具</code></p>
 
-<p>不數格子就能查詢集水區面積？雖然懷念著出隊前拿著經建版畫水線、稜線，框出集水區範圍開始數格子的觸感。但使用手機時，<a href="https://wiwari.github.io/accTW/">集水區觀察員</a> (Flow Catchment Observer) 幫你快速估算上游集水區大小。</p>
+<p>一般戶外活動，無論溪降、溯溪、獨木舟、登山、攀岩，只要過程中必須接觸溪流或溪溝，常藉上游地表水流的集水區範圍，作為潛在流量多寡的間接參考（其他該考量的因素還有降雨、地下水、地表障礙物…等）。</p>
 
-<p>溪流活動的好幫手，估算溪流集水區面積大小，利用內政部 20mDTM 推估逕流累積集水面積，沒紙本兩萬五地圖也能輕鬆得知。</p>
+<p>過往使用紙本地圖，拿兩萬五千分一的經建版，描水線、畫稜線，接著以稜線框出的集水區範圍開始數格子估算。然而現今使用電腦或手機，可開啟<a href="https://map.happyman.idv.tw/~mountain/twmap3/">地圖產生器</a>的格線（一格一公里）目視估算。也能用<a href="https://wiwari.github.io/accTW">集水區觀察員</a>。 快速估算集水區大小。</p>
 
-<p><a href="https://wiwari.github.io/accTW/"><img src="https://wiwari.github.io/accTW/og-img600.jpg" alt="前往集水區觀察員網站" /></a>
+<p><a href="https://wiwari.github.io/accTW/"><img src="https://wiwari.github.io/accTW/og-img600.jpg" alt="集水區示意圖" title="藍色圓形可以想像成漏斗大小，圓心即是出水口" /></a>
 <!--more--></p>
 
-<p>集水區是指收集雨水的漏斗大小，使用時藍色圓形可以想像成漏斗大小，圓心即是出水口。上圖中 23km² 指手繪作圖時，以橘色稜線包圍的綠色漏斗大小！若有降雨到這區域可能會貢獻到藍色圓心的位置。原始高程資料來源為內政部開放的 20m DTM ，後經計算而得 （忽略地面各項阻水引流設施）。</p>
+<p>想像集水區為這個區域收集雨水的漏斗大小，使用時藍色圓形示意相同的漏斗大小，圓心即是出水口。上圖中 23km² 指手繪作圖時，以橘色稜線包圍的綠色漏斗大小！若有降雨到這區域可能會貢獻到藍色圓心的位置。</p>
 
-<p><a href="https://github.com/wiwari/accTW">GitHub專案</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[介紹集水區觀察員 (Flow Catchment Observer) ，一個能幫你快速估算上游集水區大小的工具。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://wiwari.github.io/accTW/og-img600.jpg" /><media:content medium="image" url="https://wiwari.github.io/accTW/og-img600.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">霧台神山-溪降圖</title><link href="https://wiwari.github.io/report/c/topo-shenshan.html" rel="alternate" type="text/html" title="霧台神山-溪降圖" /><published>2021-12-19T00:00:00+08:00</published><updated>2022-06-02T17:48:25+08:00</updated><id>https://wiwari.github.io/report/c/topo-shenshan</id><content type="html" xml:base="https://wiwari.github.io/report/c/topo-shenshan.html"><![CDATA[<p>霧台神山溪降資訊 <a href="/canyoning-topo/release/20210419_%E7%A5%9E%E5%B1%B1%E5%85%A8%E6%AE%B5_Shenshan_REV035.pdf"><i class="fa fa-file-pdf-o"></i> 下載</a></p>
+<p><a href="https://wiwari.github.io/accTW">集水區觀察員</a>利用內政部 20m 數值高程，推估地表某點逕流累積集水面積，視覺呈現與集水面積相同大小的圓。同時查詢鄰近的水位站、雨量站、流量站、地質資訊。（忽略地面各項阻水引流設施）</p>
+
+<p><a href="https://github.com/wiwari/accTW">GitHub專案</a></p>
+
+<p>(集水區觀察員：溪流活動的好幫手，計算溪流集水區面積大小。同時查詢鄰近的水位站、雨量站、流量站、地質分佈。)</p>]]></content><author><name></name></author><summary type="html"><![CDATA[不數格子就能查詢集水區面積？溪流活動的好幫手，估算溪流集水區面積大小，利用內政部 20mDTM 推估逕流累積集水面積，沒紙本兩萬五地圖也能輕鬆得知。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://wiwari.github.io/accTW/og-img600.jpg" /><media:content medium="image" url="https://wiwari.github.io/accTW/og-img600.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">霧台神山-溪降圖</title><link href="https://wiwari.github.io/report/c/topo-shenshan.html" rel="alternate" type="text/html" title="霧台神山-溪降圖" /><published>2021-12-19T00:00:00+08:00</published><updated>2022-06-02T17:48:25+08:00</updated><id>https://wiwari.github.io/report/c/topo-shenshan</id><content type="html" xml:base="https://wiwari.github.io/report/c/topo-shenshan.html"><![CDATA[<p>霧台神山溪降資訊 <a href="/canyoning-topo/release/20210419_%E7%A5%9E%E5%B1%B1%E5%85%A8%E6%AE%B5_Shenshan_REV035.pdf"><i class="fa fa-file-pdf-o"></i> 下載</a></p>
 
 <ul>
   <li>溪谷名稱： 神山（屏東縣霧台鄉）</li>
@@ -27,8 +31,11 @@
 
 <p><a href="/canyoning-topo/release/20210419_%E7%A5%9E%E5%B1%B1%E5%85%A8%E6%AE%B5_Shenshan_REV035-1.jpg"><img src="/canyoning-topo/release/20210419_%E7%A5%9E%E5%B1%B1%E5%85%A8%E6%AE%B5_Shenshan_REV035-1.jpg" alt="神山 Shenshan" /></a></p>
 
-<p><a href="/canyoning-topo/release/20210419_%E7%A5%9E%E5%B1%B1%E5%85%A8%E6%AE%B5_Shenshan_REV035-2.jpg"><img src="/canyoning-topo/release/20210419_%E7%A5%9E%E5%B1%B1%E5%85%A8%E6%AE%B5_Shenshan_REV035-2.jpg" alt="神山 Shenshan" /></a></p>]]></content><author><name></name></author><category term="report" /><category term="c" /><summary type="html"><![CDATA[整理2021隘寮北溪神山支流溪降足跡，紀錄瀑布群規模、溪降起點、終點、撤退路線與交通接駁點位，嘗試融合溯溪與溪降製圖方式]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://wiwari.github.io/canyoning-topo/release/20210419_%E7%A5%9E%E5%B1%B1%E5%85%A8%E6%AE%B5_Shenshan_REV035_tn-1.png" /><media:content medium="image" url="https://wiwari.github.io/canyoning-topo/release/20210419_%E7%A5%9E%E5%B1%B1%E5%85%A8%E6%AE%B5_Shenshan_REV035_tn-1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">台電流量測站開放資料嘗試取得</title><link href="https://wiwari.github.io/taipower-opendata-attempt.html" rel="alternate" type="text/html" title="台電流量測站開放資料嘗試取得" /><published>2021-12-06T00:00:00+08:00</published><updated>2022-06-03T00:46:07+08:00</updated><id>https://wiwari.github.io/taipower-opendata-attempt</id><content type="html" xml:base="https://wiwari.github.io/taipower-opendata-attempt.html"><![CDATA[<p>總是找不到想去的溪谷流量資訊？為什麼水利署的資料總是缺了很多堤壩流量？原來缺漏的大多是屬於台電管轄的流量測站，沒法利用這些資訊實在有點可惜。
-嘗試在<a href="https://data.gov.tw/">政府資料開放平台</a>，提案<a href="https://data.gov.tw/suggests/136464">《台電所屬水力堤壩流入量、流出量》</a>。雖然沒能正式獲得所需的開放資料，起碼有個水營組的聯繫方式，做個紀錄參考，看看是不是每年來提一次？</p>
+<p><a href="/canyoning-topo/release/20210419_%E7%A5%9E%E5%B1%B1%E5%85%A8%E6%AE%B5_Shenshan_REV035-2.jpg"><img src="/canyoning-topo/release/20210419_%E7%A5%9E%E5%B1%B1%E5%85%A8%E6%AE%B5_Shenshan_REV035-2.jpg" alt="神山 Shenshan" /></a></p>]]></content><author><name></name></author><category term="report" /><category term="c" /><summary type="html"><![CDATA[整理2021隘寮北溪神山支流溪降足跡，紀錄瀑布群規模、溪降起點、終點、撤退路線與交通接駁點位，嘗試融合溯溪與溪降製圖方式]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://wiwari.github.io/canyoning-topo/release/20210419_%E7%A5%9E%E5%B1%B1%E5%85%A8%E6%AE%B5_Shenshan_REV035_tn-1.png" /><media:content medium="image" url="https://wiwari.github.io/canyoning-topo/release/20210419_%E7%A5%9E%E5%B1%B1%E5%85%A8%E6%AE%B5_Shenshan_REV035_tn-1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">嘗試取得台電流量測站開放資料</title><link href="https://wiwari.github.io/taipower-opendata-attempt.html" rel="alternate" type="text/html" title="嘗試取得台電流量測站開放資料" /><published>2021-12-06T00:00:00+08:00</published><updated>2022-06-10T16:20:32+08:00</updated><id>https://wiwari.github.io/taipower-opendata-attempt</id><content type="html" xml:base="https://wiwari.github.io/taipower-opendata-attempt.html"><![CDATA[<p>總是找不到想去的溪谷流量資訊？為什麼水利署的資料總是缺了很多堤壩流量？原來缺漏的大多是屬於台電管轄的流量測站，沒法利用這些資訊實在有點可惜。</p>
+
+<p><img src="https://cdn.pixabay.com/photo/2020/02/25/21/13/water-level-4880061_1280.jpg" alt="只有水位資訊難以建立流量的體感直覺" /></p>
+
+<p>嘗試在<a href="https://data.gov.tw/">政府資料開放平台</a>，提案<a href="https://data.gov.tw/suggests/136464">《台電所屬水力堤壩流入量、流出量》</a>。雖然沒能正式獲得所需的開放資料，起碼有個水營組的聯繫方式，做個紀錄參考，看看是不是每年來提一次？</p>
 
 <ul>
   <li>提案內容
@@ -94,7 +101,7 @@
 
     <p><code class="language-plaintext highlighter-rouge">麻煩使用時低姿態客氣請求，畢竟提供民眾資料並非水營組原本業務。期望長期穩定詢問後，台電會願意建置公開查詢系統，或釋出開放資料。</code></p>
   </li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[總是找不到想去的溪谷流量資訊？為什麼水利署的資料總是缺了很多堤壩流量？紀錄於開放資料平台向台電索取流量資料未果始末。]]></summary></entry><entry><title type="html">ffs全解除系統大車拼</title><link href="https://wiwari.github.io/ffs-releasable-system-comparison.html" rel="alternate" type="text/html" title="ffs全解除系統大車拼" /><published>2021-11-22T00:00:00+08:00</published><updated>2022-06-07T17:57:10+08:00</updated><id>https://wiwari.github.io/ffs-releasable-system-comparison</id><content type="html" xml:base="https://wiwari.github.io/ffs-releasable-system-comparison.html"><![CDATA[<p>2021上半年 法國<a href="https://ffspeleo.fr/">ffs</a> 做了溪降固定點全解除系統 (releasable system) 大車拼，以使用需求切入，並總結建議的方法，影片中文字幕由 wiwari 翻譯整理。</p>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[總是找不到想去的溪谷流量資訊？為什麼水利署的資料總是缺了很多堤壩流量？紀錄於開放資料平台向台電索取流量資料未果始末。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cdn.pixabay.com/photo/2020/02/25/21/13/water-level-4880061_1280.jpg" /><media:content medium="image" url="https://cdn.pixabay.com/photo/2020/02/25/21/13/water-level-4880061_1280.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">溪降全解除系統大車拼-ffs</title><link href="https://wiwari.github.io/ffs-releasable-system-comparison.html" rel="alternate" type="text/html" title="溪降全解除系統大車拼-ffs" /><published>2021-11-22T00:00:00+08:00</published><updated>2022-06-10T17:27:58+08:00</updated><id>https://wiwari.github.io/ffs-releasable-system-comparison</id><content type="html" xml:base="https://wiwari.github.io/ffs-releasable-system-comparison.html"><![CDATA[<p>2021上半年，法國 <a href="https://ffspeleo.fr/">ffs</a> 做了溪降固定點全解除系統 (releasable system) 大車拼，以使用需求切入，並總結建議的方法，影片中文字幕由 wiwari 翻譯整理。</p>
 
 <!--more-->
 
@@ -127,7 +134,68 @@
 <p>Campagne de tests - Canyonisme et débrayeurs</p>
 
 <p><a href="https://www.youtube.com/watch?v=53glyT1vFdQ">ffs全解除系統大車拼-原始youtube影片-英文字幕</a></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/53glyT1vFdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></content><author><name></name></author><summary type="html"><![CDATA[溪降固定點架設，哪一種下降器或方法好？溪降全解除（可釋放）固定點優劣，看看ffs怎麼說。]]></summary></entry><entry><title type="html">南勢溪</title><link href="https://wiwari.github.io/report/k/naishi-river.html" rel="alternate" type="text/html" title="南勢溪" /><published>2021-01-24T00:00:00+08:00</published><updated>2022-06-03T00:45:43+08:00</updated><id>https://wiwari.github.io/report/k/naishi-river</id><content type="html" xml:base="https://wiwari.github.io/report/k/naishi-river.html"><![CDATA[<ul>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/53glyT1vFdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></content><author><name></name></author><summary type="html"><![CDATA[溪降固定點架設，哪一種下降器或方法好？溪降全解除（可釋放）固定點優劣，看看ffs怎麼說。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.ytimg.com/vi/53glyT1vFdQ/maxresdefault.jpg" /><media:content medium="image" url="https://i.ytimg.com/vi/53glyT1vFdQ/maxresdefault.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">CIC 溪降課程心得</title><link href="https://wiwari.github.io/cic-summary.html" rel="alternate" type="text/html" title="CIC 溪降課程心得" /><published>2021-04-29T00:00:00+08:00</published><updated>2022-06-10T17:30:52+08:00</updated><id>https://wiwari.github.io/cic-summary</id><content type="html" xml:base="https://wiwari.github.io/cic-summary.html"><![CDATA[<p><code class="language-plaintext highlighter-rouge">2021/04/29 更新補上 M3部分</code></p>
+
+<p><img src="https://www.ica-canyoning.org/images/Parceiros/cic-logo.png" alt="CIC logo" /></p>
+
+<p>把最近上課接觸溪降的內容與心得整理下來，免得以後自己忘記了。</p>
+<ul>
+  <li>2021/03/17-31 <a href="https://www.cic-canyoning.org/en/courses/module1and2.php.html">CIC Module 1&amp;2</a></li>
+  <li>2021/04/11-20 <a href="https://www.cic-canyoning.org/en/courses/module3.php.html">CIC Module 3</a></li>
+</ul>
+
+<p>課程資訊參見<a href="https://www.facebook.com/cic.taiwan">台灣CIC課程facebook</a></p>
+
+<h1 id="溪降觀念">溪降觀念</h1>
+<p><code class="language-plaintext highlighter-rouge">Module 1&amp;2 吸收的觀念</code>
+摘要如下：</p>
+<ol>
+  <li>溪降 Canyoning 的核心精神是全解除架設 full releasable 。</li>
+  <li>固定點設置O環在最底下，比只有 maillon 好救援與回收。</li>
+  <li>固定點位置與形式選用得好，救援、回收、磨繩免煩惱。看到抽繩會磨或是瀑底無法直視的固定點，常代表真正的主要固定點還沒到(在更下面)。</li>
+  <li>永遠留全繩距繩長的備用繩在瀑頂，供救援使用。</li>
+</ol>
+
+<!--more-->
+
+<h1 id="anchor--bolt-設置考量點">Anchor &amp; Bolt 設置考量點</h1>
+<p><code class="language-plaintext highlighter-rouge">此部份為 Module 3 實際溪谷行進時，課程 Instructor 現地分析與實作獲得的觀念筆記。 </code></p>
+
+<h2 id="位置選擇">位置選擇</h2>
+<ol>
+  <li>完整觀察地形後再依最適當行進方式、決定最佳位置。垂降尾端水文狀況，是否會帶入難以離開或高風險的水流區域。是否可直視垂降路線，以利繩距主導者(pitch leader) 觀察並做救援準備</li>
+  <li>繩索走向是否磨繩、通過岩角：如是，考量多架設一繩距，跨越磨繩與岩角後再設立另一中途固定點(re-belay) 垂降站。</li>
+  <li>bolt 位置僅可能高，理想位置可設置在翻過岩角下游面，避免暴漲時夾帶的土石衝擊破壞，若無法完全閃躲，可考量暴漲時的迴流區(eddy)位置，減少沖刷力道；同時考量在懸岩(overhang) 下的可能，閃避落石的破壞。若無法直接抵達，考慮多架設另一短繩距。</li>
+  <li>考量豐水期高水流衝擊狀況，有需要時應儘高於無擺擋風險時即開始設立偏離點(deviation) 。以通過偏離點時不將挽索(lanyard) 掛入亦無擺擋風險為原則。</li>
+  <li>設置anchor 為兩顆一組的bolt時，大原則讓靠上游的bolt (或靠排隊等垂降的方向)較低，靠下游方向bolt(懸掛該繩距主導者與繩袋背包)偏高。可避免垂降這需要跨掛整個系統，讓行進路線簡潔，並利於救援進行。</li>
+  <li>設置前爭取多觀點討論最佳設置點，避免個人盲點影響。</li>
+</ol>
+
+<p>（bolt 位置設得好，收繩沒煩惱，還能讓繩子延年益壽）</p>
+
+<h2 id="配置選擇">配置選擇</h2>
+<ol>
+  <li>anchor 最下端以 O環為原則；不建議梅龍鎖(maillon) 的原因是下放與救援時，受力滑動的繩索與鉤環擠在寬度窄小的mailon內，易導致卡死。</li>
+  <li>兩顆接近左右設置的 bolt 若有兩個獨立的穿環，要讓穿繩的環維持左右穿，避免前後穿。才不會同時穿過兩顆時扭轉繩索與難以回收。</li>
+  <li>避免使用扁帶連接兩個bolt 長久留置，扁帶易毀損。有臨時備份需要時可以sling 或快扣連接，最後一人時取下回收。</li>
+  <li>天然固定點安裝繩環加 O 環時，強烈建議使用淘汰的主繩，有繩皮繩心結構，較耐候且較抗磨損。</li>
+  <li>拉脹形式 Bolt 鑽孔以稍長於整根bolt為原則，未來廢棄時才能將突出的螺栓敲入岩壁沒入，簡化廢除心力。</li>
+</ol>
+
+<h2 id="材質原則">材質原則</h2>
+<ul>
+  <li>理想 bolt 、耳片(hanger)、梅龍(maillon)、O環、材料為整組金屬相同材料的 316 不鏽鋼，延伸 bolt 生命週期。</li>
+</ul>
+
+<h2 id="亂入觀點">亂入觀點</h2>
+<p><code class="language-plaintext highlighter-rouge">以下是自己亂入不在課程內容中，一起討論看看。</code></p>
+<ul>
+  <li>考量救援情境，設定200kg承重</li>
+  <li>考量 guideline 緊繃，故將WLL拉升三倍到 600kg</li>
+  <li>因此以 車修壁虎 (wedge bolt) 來說，M10 看來可能是個合理的中長期設置選項，M8(或 5/16”) 較適合緊急逃難的短期用bolt。</li>
+</ul>
+
+<p>(不同設定條件會推論出不同的需求)</p>]]></content><author><name></name></author><summary type="html"><![CDATA[CIC M1, M2, M3 溪降課程心得]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ica-canyoning.org/images/Parceiros/cic-logo.png" /><media:content medium="image" url="https://www.ica-canyoning.org/images/Parceiros/cic-logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">南勢溪</title><link href="https://wiwari.github.io/report/k/naishi-river.html" rel="alternate" type="text/html" title="南勢溪" /><published>2021-01-24T00:00:00+08:00</published><updated>2022-06-10T16:20:32+08:00</updated><id>https://wiwari.github.io/report/k/naishi-river</id><content type="html" xml:base="https://wiwari.github.io/report/k/naishi-river.html"><![CDATA[<ul>
   <li>南勢溪 Nanshi River</li>
   <li>起點：福山 (集水區162平方公里)</li>
   <li>終點：內洞 (集水區207平方公里)</li>
@@ -138,7 +206,7 @@
   <li>Royalty Free Music from Bensound</li>
 </ul>
 <iframe src="https://player.vimeo.com/video/506413484?h=98032c98cf" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
-<p><a href="https://vimeo.com/506413484">20210124_NanShiRiver</a> from <a href="https://vimeo.com/wwk">WWK</a> on <a href="https://vimeo.com">Vimeo</a>.</p>]]></content><author><name></name></author><category term="report" /><category term="k" /><summary type="html"><![CDATA[南勢溪福山段，遠鏡頭交叉剪輯嘗試。]]></summary></entry><entry><title type="html">豐坪溪溯行紀錄</title><link href="https://wiwari.github.io/report/t/river_fengpingxi.html" rel="alternate" type="text/html" title="豐坪溪溯行紀錄" /><published>2016-01-17T00:00:00+08:00</published><updated>2022-06-02T11:15:31+08:00</updated><id>https://wiwari.github.io/report/t/river_fengpingxi</id><content type="html" xml:base="https://wiwari.github.io/report/t/river_fengpingxi.html"><![CDATA[<p>好似激流檢定般，各式各樣非得去碰的水流。</p>
+<p><a href="https://vimeo.com/506413484">20210124_NanShiRiver</a> from <a href="https://vimeo.com/wwk">WWK</a> on <a href="https://vimeo.com">Vimeo</a>.</p>]]></content><author><name></name></author><category term="report" /><category term="k" /><summary type="html"><![CDATA[激流獨木舟，南勢溪福山段，遠鏡頭交叉剪輯嘗試。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://i.vimeocdn.com/video/1047971078-781bc6f18b0bce03c0a09f6829fd7f955c3707eb81ccb9a92343e401f4ef28cd-d" /><media:content medium="image" url="https://i.vimeocdn.com/video/1047971078-781bc6f18b0bce03c0a09f6829fd7f955c3707eb81ccb9a92343e401f4ef28cd-d" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">豐坪溪溯行紀錄</title><link href="https://wiwari.github.io/report/t/river_fengpingxi.html" rel="alternate" type="text/html" title="豐坪溪溯行紀錄" /><published>2016-01-17T00:00:00+08:00</published><updated>2022-06-02T11:15:31+08:00</updated><id>https://wiwari.github.io/report/t/river_fengpingxi</id><content type="html" xml:base="https://wiwari.github.io/report/t/river_fengpingxi.html"><![CDATA[<p>好似激流檢定般，各式各樣非得去碰的水流。</p>
 <ul>
   <li>溯行日期：2015/11/09-23</li>
   <li>成員：Onishi, Jasmine, Powen</li>
@@ -1782,7 +1850,7 @@
       <td> </td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><category term="report" /><category term="t" /><summary type="html"><![CDATA[溪行者激流視讀的能力檢定，2014年 豐坪溪： 紅葉 → 三民林道 → 豐坪溪 → 馬布谷 → 中平林道 → 玉里。 三人隊伍共15日]]></summary></entry><entry><title type="html">馬霍拉斯溪(溯登馬博拉斯山)溯行紀錄 Mahoras</title><link href="https://wiwari.github.io/report/t/ma-huo-la-si-river.html" rel="alternate" type="text/html" title="馬霍拉斯溪(溯登馬博拉斯山)溯行紀錄 Mahoras" /><published>2015-03-11T00:00:00+08:00</published><updated>2022-06-02T17:48:25+08:00</updated><id>https://wiwari.github.io/report/t/ma-huo-la-si-river</id><content type="html" xml:base="https://wiwari.github.io/report/t/ma-huo-la-si-river.html"><![CDATA[<ul>
+</table>]]></content><author><name></name></author><category term="report" /><category term="t" /><summary type="html"><![CDATA[溪行者激流視讀的能力檢定，2014年 豐坪溪： 紅葉 → 三民林道 → 豐坪溪 → 馬布谷 → 中平林道 → 玉里。 三人隊伍共15日]]></summary></entry><entry><title type="html">馬霍拉斯溪(溯登馬博拉斯山)溯行紀錄 Mahoras</title><link href="https://wiwari.github.io/report/t/ma-huo-la-si-river.html" rel="alternate" type="text/html" title="馬霍拉斯溪(溯登馬博拉斯山)溯行紀錄 Mahoras" /><published>2015-03-11T00:00:00+08:00</published><updated>2022-06-10T16:20:32+08:00</updated><id>https://wiwari.github.io/report/t/ma-huo-la-si-river</id><content type="html" xml:base="https://wiwari.github.io/report/t/ma-huo-la-si-river.html"><![CDATA[<ul>
   <li>溯行日期：2014/03/21-04/05 <br /></li>
   <li>溯行人員：Onishi、Miyagi、+3、PW<br /></li>
   <li>溯行溪流：馬霍拉斯溪（溯登馬博拉斯山）<br /></li>
@@ -4530,7 +4598,7 @@
       <td> </td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><category term="report" /><category term="t" /><summary type="html"><![CDATA[2014年 馬霍拉斯溪溯登馬博拉斯山 - 冷凍庫溯源行程 。 南安 → 瓦拉米 → 樂樂溪 → 馬霍拉斯溪 → 馬博拉斯山 → 觀高 → 東埔。 四人隊伍共16日]]></summary></entry><entry><title type="html">恰堪溪溯行紀錄</title><link href="https://wiwari.github.io/report/t/ciya-kang-river.html" rel="alternate" type="text/html" title="恰堪溪溯行紀錄" /><published>2013-05-12T00:00:00+08:00</published><updated>2022-06-02T11:15:31+08:00</updated><id>https://wiwari.github.io/report/t/ciya-kang-river</id><content type="html" xml:base="https://wiwari.github.io/report/t/ciya-kang-river.html"><![CDATA[<p>恰堪溪溯行紀錄</p>
+</table>]]></content><author><name></name></author><category term="report" /><category term="t" /><summary type="html"><![CDATA[2014年 馬霍拉斯溪溯登馬博拉斯山 - 冷凍庫溯源行程 。 南安 → 瓦拉米 → 樂樂溪 → 馬霍拉斯溪 → 馬博拉斯山 → 觀高 → 東埔。 四人隊伍共16日]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lh5.googleusercontent.com/-7UOWt7iWfHw/U5SR8wg1XCI/AAAAAAAALWw/7hsupJ9VuhE/s1600/P3280553.JPG" /><media:content medium="image" url="https://lh5.googleusercontent.com/-7UOWt7iWfHw/U5SR8wg1XCI/AAAAAAAALWw/7hsupJ9VuhE/s1600/P3280553.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">恰堪溪溯行紀錄</title><link href="https://wiwari.github.io/report/t/ciya-kang-river.html" rel="alternate" type="text/html" title="恰堪溪溯行紀錄" /><published>2013-05-12T00:00:00+08:00</published><updated>2022-06-10T16:20:32+08:00</updated><id>https://wiwari.github.io/report/t/ciya-kang-river</id><content type="html" xml:base="https://wiwari.github.io/report/t/ciya-kang-river.html"><![CDATA[<p>恰堪溪溯行紀錄</p>
 <ul>
   <li>溯行日期：2013/04/20-04/31</li>
   <li>溯行人員：Onishi、Sato、Miyagi、佳珊、博文</li>
@@ -6417,7 +6485,7 @@
       <td>抵台北火車站</td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><category term="report" /><category term="t" /><summary type="html"><![CDATA[2013年 恰堪溪溯溪，大門牙 → 二子溫泉 → 白石山 → 萬大北溪溫泉 → 奧萬大森林遊樂區 。 五人隊伍共12日]]></summary></entry><entry><title type="html">新武呂溪溯行紀錄</title><link href="https://wiwari.github.io/report/t/xin-wu-lu-river.html" rel="alternate" type="text/html" title="新武呂溪溯行紀錄" /><published>2010-01-26T00:00:00+08:00</published><updated>2022-06-02T11:15:31+08:00</updated><id>https://wiwari.github.io/report/t/xin-wu-lu-river</id><content type="html" xml:base="https://wiwari.github.io/report/t/xin-wu-lu-river.html"><![CDATA[<p><code class="language-plaintext highlighter-rouge">2022更新</code></p>
+</table>]]></content><author><name></name></author><category term="report" /><category term="t" /><summary type="html"><![CDATA[2013年 恰堪溪溯溪，大門牙 → 二子溫泉 → 白石山 → 萬大北溪溫泉 → 奧萬大森林遊樂區 。 五人隊伍共12日]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lh4.googleusercontent.com/-S_aBRRRaHZE/UabvZmIHDBI/AAAAAAAAJZU/GPuoApOZLPo/s1600/DSC06013.JPG" /><media:content medium="image" url="https://lh4.googleusercontent.com/-S_aBRRRaHZE/UabvZmIHDBI/AAAAAAAAJZU/GPuoApOZLPo/s1600/DSC06013.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">新武呂溪溯行紀錄</title><link href="https://wiwari.github.io/report/t/xin-wu-lu-river.html" rel="alternate" type="text/html" title="新武呂溪溯行紀錄" /><published>2010-01-26T00:00:00+08:00</published><updated>2022-06-02T11:15:31+08:00</updated><id>https://wiwari.github.io/report/t/xin-wu-lu-river</id><content type="html" xml:base="https://wiwari.github.io/report/t/xin-wu-lu-river.html"><![CDATA[<p><code class="language-plaintext highlighter-rouge">2022更新</code></p>
 
 <p>翻開了塵封的溯行圖瞧瞧，發現 SVG 的應用好像沒趕上腳步，並不符合網路閱讀習慣，動手改成地圖疊合的閱讀方法，參閱底部<a href="#onlinemap">空照溯行疊圖</a></p>
 

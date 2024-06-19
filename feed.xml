@@ -1,4 +1,66 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-Hant-TW"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://wiwari.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://wiwari.github.io/" rel="alternate" type="text/html" hreflang="zh-Hant-TW" /><updated>2024-06-18T09:07:50+08:00</updated><id>https://wiwari.github.io/feed.xml</id><title type="html">溪激流 | whitewater river</title><subtitle>高山溯溪溯源、激流獨木舟、峽谷溪降雜記</subtitle><entry><title type="html">我們與槳的距離</title><link href="https://wiwari.github.io/whitewater-the-distance-to-paddle.html" rel="alternate" type="text/html" title="我們與槳的距離" /><published>2024-04-29T00:00:00+08:00</published><updated>2024-06-18T09:07:13+08:00</updated><id>https://wiwari.github.io/whitewater-the-distance-to-paddle</id><content type="html" xml:base="https://wiwari.github.io/whitewater-the-distance-to-paddle.html"><![CDATA[<p><code class="language-plaintext highlighter-rouge">激流慢慢來之六</code> 我們與槳的距離？看似近，實則遠</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-Hant-TW"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://wiwari.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://wiwari.github.io/" rel="alternate" type="text/html" hreflang="zh-Hant-TW" /><updated>2024-06-20T08:28:59+08:00</updated><id>https://wiwari.github.io/feed.xml</id><title type="html">溪激流 | whitewater river</title><subtitle>高山溯溪溯源、激流獨木舟、峽谷溪降雜記</subtitle><entry><title type="html">尋覓潛在水源</title><link href="https://wiwari.github.io/accTW-howto-find-water.html" rel="alternate" type="text/html" title="尋覓潛在水源" /><published>2024-06-19T00:00:00+08:00</published><updated>2024-06-19T14:41:33+08:00</updated><id>https://wiwari.github.io/accTW-howto-find-water</id><content type="html" xml:base="https://wiwari.github.io/accTW-howto-find-water.html"><![CDATA[<p><code class="language-plaintext highlighter-rouge">你所不知的集水區觀察員</code> 尋覓潛在水源。</p>
+
+<p><img src="../assets/images/accTW-howto-find-water.gif" alt="488p示意" /></p>
+
+<p>水，生命的源頭。</p>
+<blockquote>
+  <p>曾因缺水而限水兩天，卻在下切找水時一次次感到絕望？</p>
+</blockquote>
+
+<p>一般登山的探勘計畫中，最棘手的，便是水源了，以為的溪溝不是溪溝，以為的水源也不是水源。曾經，又是曾經，那個拿紙本地圖的時代，老骨頭們習慣看著等高線，目視評估集水區大小，憑藉著過往的經驗，猜測下切多遠能碰到活水。如今，電子化的離線地圖相當方便，卻不一定方便識別可能的取水點了。</p>
+
+<!--more-->
+
+<p><img src="https://images.unsplash.com/photo-1630770175431-97430a3bd6e3" alt="活水源" /></p>
+
+<p>當使用地圖產生器或地圖瀏覽器研究地圖時，開啟右鍵選單，並點擊集水區觀察員圖示，便會開啟同樣位置的集水區觀察員：在圖面上以不同顏色，劃分該位置匯流入的集水區大小。面積由小至大的顏色為，紅橙黃綠藍紫。</p>
+
+<p>當等高線圖的變化不明，難以判斷時，改以 DEM 推算的分色繪圖輔助，評估取水可能，便容易許多。</p>
+
+<p>操作方式：（懶人請跳至頁面底部影片）</p>
+
+<ol>
+  <li>使用熟悉的<a href="https://twmap.happyman.idv.tw/map/">地圖產生器</a>的瀏覽器查圖</li>
+  <li>在所需範圍中心開啟右鍵選單，點選 <img src="https://wiwari.github.io/accTW/icon/wwr-acc-32.png" alt="" /> 開啟<a href="https://wiwari.github.io/accTW/">集水區觀察員</a></li>
+  <li>地圖上的彩色水系圖，以紅橙黃綠藍紫標示大小</li>
+  <li>游標靠近彩色水系圖，將顯示當地海拔 h （單位 m），以及 💧集水面積 （單位 km²）</li>
+  <li>藍虛線為游標處集水區規模示意</li>
+</ol>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>取水所所需的集水區範圍</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>豐水期</td>
+      <td>0.1km² 的溝通常就能取到水了</td>
+    </tr>
+    <tr>
+      <td>枯水期</td>
+      <td>0.2km² 以下不太有機會，但也依地域地質不同，下切到 0.5km² 亦不罕見。 <sup id="fnref:dry" role="doc-noteref"><a href="#fn:dry" class="footnote" rel="footnote">1</a></sup></td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="video-holder">
+<iframe src="https://player.vimeo.com/video/961952185" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+<p><a href="https://vimeo.com/961952185"> 尋覓潛在水源 | 你所不知的集水區觀察員 </a> from <a href="https://vimeo.com/wwk">WWK</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<!-- 延伸閱讀：
+你所不知的集水區觀察員 -->
+<hr />
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:dry" role="doc-endnote">
+      <p>也曾下切 1.2km² 才切到活水，推測是上游因地質關係，地貌呈現伏流，切到活水處時，竟是個小潭 <a href="#fnref:dry" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[尋覓潛在水源 | 你所不知的集水區觀察員。 accTW Application -- Potential Water Source]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://images.unsplash.com/photo-1630770175431-97430a3bd6e3" /><media:content medium="image" url="https://images.unsplash.com/photo-1630770175431-97430a3bd6e3" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">我們與槳的距離</title><link href="https://wiwari.github.io/whitewater-the-distance-to-paddle.html" rel="alternate" type="text/html" title="我們與槳的距離" /><published>2024-04-29T00:00:00+08:00</published><updated>2024-06-18T09:07:13+08:00</updated><id>https://wiwari.github.io/whitewater-the-distance-to-paddle</id><content type="html" xml:base="https://wiwari.github.io/whitewater-the-distance-to-paddle.html"><![CDATA[<p><code class="language-plaintext highlighter-rouge">激流慢慢來之六</code> 我們與槳的距離？看似近，實則遠</p>
 
 <p>不論背包艇或激流舟，前進槳、倒退槳、左掃槳、右掃槳，大概是平水課程的四大護法了，之所以入門，正是因為它們既重要，又容易上手。平靜水域不講究槳效時，用掃槳大致上能應付轉向需求。而隨著溪流流速變化，想以最精簡動作操控，偶爾可能吃到上述掃槳的虧。當覺得不足時，便是習得新技能的最佳時刻了。</p>
 
@@ -821,19 +883,4 @@
 
 <h3 id="樂山隊">樂山隊</h3>
 
-<p>不拘小節，融入各類風格，能見到溪降常見的 maillon 捨棄法。總以行山人的思維推進，時時有著在溪谷難關前共同解題的隊伍氛圍，關關難過關關過的衝刺精神。🤺</p>]]></content><author><name></name></author><summary type="html"><![CDATA[第二屆山域搜救技能交流高峰會 2023/02/11-12 | 引導回報座標、野外救護、搬運、困難地形通過]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://wiwari.github.io/assets/images/2023MoRE.jpg" /><media:content medium="image" url="https://wiwari.github.io/assets/images/2023MoRE.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">集水區觀察員</title><link href="https://wiwari.github.io/aacTW.html" rel="alternate" type="text/html" title="集水區觀察員" /><published>2021-12-19T00:00:00+08:00</published><updated>2022-06-10T17:27:46+08:00</updated><id>https://wiwari.github.io/aacTW</id><content type="html" xml:base="https://wiwari.github.io/aacTW.html"><![CDATA[<p><code class="language-plaintext highlighter-rouge">溪降、溯溪、獨木舟、登山必備工具</code></p>
-
-<p>一般戶外活動，無論溪降、溯溪、獨木舟、登山、攀岩，只要過程中必須接觸溪流或溪溝，常藉上游地表水流的集水區範圍，作為潛在流量多寡的間接參考（其他該考量的因素還有降雨、地下水、地表障礙物…等）。</p>
-
-<p>過往使用紙本地圖，拿兩萬五千分一的經建版，描水線、畫稜線，接著以稜線框出的集水區範圍開始數格子估算。然而現今使用電腦或手機，可開啟<a href="https://map.happyman.idv.tw/~mountain/twmap3/">地圖產生器</a>的格線（一格一公里）目視估算。也能用<a href="https://wiwari.github.io/accTW">集水區觀察員</a>。 快速估算集水區大小。</p>
-
-<p><a href="https://wiwari.github.io/accTW/"><img src="https://wiwari.github.io/accTW/og-img600.jpg" alt="集水區示意圖" title="藍色圓形可以想像成漏斗大小，圓心即是出水口" /></a>
-<!--more--></p>
-
-<p>想像集水區為這個區域收集雨水的漏斗大小，使用時藍色圓形示意相同的漏斗大小，圓心即是出水口。上圖中 23km² 指手繪作圖時，以橘色稜線包圍的綠色漏斗大小！若有降雨到這區域可能會貢獻到藍色圓心的位置。</p>
-
-<p><a href="https://wiwari.github.io/accTW">集水區觀察員</a>利用內政部 20m 數值高程，推估地表某點逕流累積集水面積，視覺呈現與集水面積相同大小的圓。同時查詢鄰近的水位站、雨量站、流量站、地質資訊。（忽略地面各項阻水引流設施）</p>
-
-<p><a href="https://github.com/wiwari/accTW">GitHub專案</a></p>
-
-<p>(集水區觀察員：溪流活動的好幫手，計算溪流集水區面積大小。同時查詢鄰近的水位站、雨量站、流量站、地質分佈。)</p>]]></content><author><name></name></author><summary type="html"><![CDATA[不數格子就能查詢集水區面積？溪流活動的好幫手，估算溪流集水區面積大小，利用內政部 20mDTM 推估逕流累積集水面積，沒紙本兩萬五地圖也能輕鬆得知。]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://wiwari.github.io/accTW/og-img600.jpg" /><media:content medium="image" url="https://wiwari.github.io/accTW/og-img600.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>不拘小節，融入各類風格，能見到溪降常見的 maillon 捨棄法。總以行山人的思維推進，時時有著在溪谷難關前共同解題的隊伍氛圍，關關難過關關過的衝刺精神。🤺</p>]]></content><author><name></name></author><summary type="html"><![CDATA[第二屆山域搜救技能交流高峰會 2023/02/11-12 | 引導回報座標、野外救護、搬運、困難地形通過]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://wiwari.github.io/assets/images/2023MoRE.jpg" /><media:content medium="image" url="https://wiwari.github.io/assets/images/2023MoRE.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

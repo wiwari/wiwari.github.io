@@ -284,4 +284,6 @@ body { /* 先套用 Noto Sans TC 這個 思源黑體 */ font-family: Tahoma, '�
 
 .video-holder iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
+blockquote { font-style: normal; }
+
 /*# sourceMappingURL=main.css.map */
